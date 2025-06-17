@@ -5,12 +5,12 @@ body {
   }
 
   .highlight {
-    color: #FFD700;
+    color: #FFE521;
     font-weight: bold;
   }
 
   .btn-yellow {
-    background-color: #FFD700;
+    background-color: #FFE521;
     color: #000;
     font-weight: 600;
     border-radius: 20px;
@@ -19,11 +19,12 @@ body {
   }
 
   .btn-yellow:hover {
-    background-color: #e6c200;
+    background-color: #fff;
+    color: #ffc107;
   }
 
   .service-icon {
-    background-color: #FFD700;
+    background-color: #FFE521;
     border-radius: 50%;
     width: 60px;
     height: 60px;
@@ -36,5 +37,6 @@ body {
   }
 
   .rating-stars {
-    color: #FFD700;
+    color: #fff;
   }
+
