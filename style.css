@@ -1,0 +1,40 @@
+body {
+    background-color: #000;
+    color: #f2fdfd;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .highlight {
+    color: #FFD700;
+    font-weight: bold;
+  }
+
+  .btn-yellow {
+    background-color: #FFD700;
+    color: #000;
+    font-weight: 600;
+    border-radius: 20px;
+    /* padding: 0.6rem 1.2rem; */
+    transition: all 0.3s ease;
+  }
+
+  .btn-yellow:hover {
+    background-color: #e6c200;
+  }
+
+  .service-icon {
+    background-color: #FFD700;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    color: #000;
+    margin: 0 auto 1rem auto;
+  }
+
+  .rating-stars {
+    color: #FFD700;
+  }
