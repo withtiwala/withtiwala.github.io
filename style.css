@@ -10,14 +10,39 @@ body {
   }
 
   .btn-yellow {
+    width: 122px;
+    height: 36px;
     background-color: #FFE521;
     color: #000;
     font-weight: 600;
-    border-radius: 20px;
+    border-radius: 41.44px;
     /* padding: 0.6rem 1.2rem; */
     transition: all 0.3s ease;
   }
 
+  .btn-yellow1 {
+    width: 179px;
+    height: 55.25px;
+    background-color: #FFE521;
+    color: #000;
+    font-weight: 600;
+    border-radius: 41.44px;
+    /* padding: 0.6rem 1.2rem; */
+    transition: all 0.3s ease;
+    font-size: 20px;
+  }
+
+  .serviceTitle{
+    color: #FFE521;
+    font-size: 28px;
+  }
+
+  .serviceDescription{
+    font-size: 19px;
+    line-height: 120%;
+    color: #D1FFEB;
+  }
+  
   .btn-yellow:hover {
     background-color: #fff;
     color: #ffc107;
@@ -26,8 +51,8 @@ body {
   .service-icon {
     background-color: #FFE521;
     border-radius: 50%;
-    width: 60px;
-    height: 60px;
+    width: 62px;
+    height: 62px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -46,4 +71,8 @@ body {
 
 .bg-yellow{
     background-color: #FFE521;
+}
+
+.display-5{
+  font-size: 85px !important;
 }
